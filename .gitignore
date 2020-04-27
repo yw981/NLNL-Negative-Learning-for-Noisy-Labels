@@ -1,4 +1,5 @@
 .idea/
+noise/
 **/model
 **/data
 *.npy
