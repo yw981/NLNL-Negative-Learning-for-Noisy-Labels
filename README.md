@@ -11,7 +11,8 @@ Paper: https://arxiv.org/abs/1908.07387
 
 ## Generating noisy data
 ```
-python3 noise_generator.py --noise_type val_split_symm_exc
+python noise_generator.py --noise_type val_split_symm_exc
+python noise_generator.py --noise_type val_split_asymm
 ```
 
 ## Start training
